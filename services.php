@@ -9,56 +9,7 @@
     <!-- HEADER AREA END -->
 
     <!-- shared hosting banner -->
-    <!-- HERO BANNER SIX -->
-    <div class="hero-banner-slide position-relative fix add__banner">
-        <div class="hero-banner-slider-wrapper">
-            <div class="banner-slider-active">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="rts-hosting-banner hosting__offer__bg" style="background-image: url(assets/images/banner/offer__background.jpg);">
-                            <div class="container">
-                                <div class="row justify-content-md-center justify-content-lg-start">
-                                    <div class="col-lg-4">
-                                        <div class="banner-area">
-                                            <div class="banner-area__content">
-                                                <img src="assets/images/50__off.png" alt="">
-                                                <h3 class="banner-area__content__title">Unlock Exclusive <span>Hosting</span> Offers Today</h3>
-                                                <a href="#" class="banner-area__content__link">View Now</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="rts-hosting-banner hosting__offer__bg" style="background-image: url(assets/images/banner/offer__background-2.jpg);">
-                            <div class="container">
-                                <div class="row justify-content-md-center justify-content-lg-start">
-                                    <div class="col-lg-6">
-                                        <div class="banner-area style__two">
-                                            <div class="banner-area__content">
-                                                <img src="assets/images/50__off-2.png" alt="">
-
-                                                <a href="#" class="banner-area__content__link">View Now</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="slider-arrow">
-                    <button class="rts-slider-btn swiper-btn-next"><i class="fa-sharp fa-solid fa-chevron-left"></i></button>
-                    <button class="rts-slider-btn swiper-btn-prev"><i class="fa-sharp fa-solid fa-chevron-right"></i></button>
-                </div>
-                <div class="slider-dots"></div>
-            </div>
-        </div>
-    </div>
-    <!-- HERO BANNER SIX END -->
-
+    
 
     <!-- PRICING PLAN START -->
     <div class="rts-pricing-plan  alice__blue section__padding">
@@ -186,7 +137,7 @@
                         </div>
                         <!-- single card end -->
                         <!-- single card -->
-                        <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div   div class="col-lg-3 col-md-6 col-sm-6">
                             <div class="card-plan">
                                 <div class="card-plan__package">
                                     <div class="icon">
@@ -869,38 +820,6 @@
     </div>
     <!-- PRICING PLAN START END -->
 
-    <!-- HOSTIE SECURITY ANNOUNCEMENT SECTION -->
-    <section class="rts-hosting-feature-two section__padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="rts-hosting-feature-two__image" data-sal="slide-right" data-sal-delay="100" data-sal-duration="800">
-                        <img src="assets/images/hosting/hosting__feature__two.png" alt="">
-                    </div>
-                </div>
-                <div class="col-lg-5 offset-lg-1">
-                    <div class="rts-hosting-feature-two__content">
-                        <div class="rts-section__two">
-                            <h6 class="sub__title" data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">feature</h6>
-                            <h2 class="title" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">Advanced Security
-                                Features</h2>
-                            <p class="description" data-sal="slide-down" data-sal-delay="400" data-sal-duration="800">We’ll move your first website to Cloud ways from any web host for without breaking your live site hosted.</p>
-                        </div>
-                        <div class="feature" data-sal="slide-down" data-sal-delay="500" data-sal-duration="800">
-                            <ul class="feature__list">
-                                <li class="feature__item">Get unlimited SSL security certificates</li>
-                                <li class="feature__item">Protect your website from DDoS attacks</li>
-                                <li class="feature__item">Secure your files with automatic backups.</li>
-                            </ul>
-                        </div>
-                        <a href="#" class="rts-btn rts-btn-secondary" data-sal="slide-down" data-sal-delay="600" data-sal-duration="800">get started</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- HOSTIE SECURITY ANNOUNCEMENT SECTION END -->
-
     <!-- SUPPORT AREA -->
     <div class="rts-support black__friday--support">
         <div class="container">
@@ -928,92 +847,6 @@
     </div>
     <!-- SUPPORT AREA END -->
 
-    <!-- SHARED HOSTING FAQ -->
-    <div class="rts-hosting-faq section__padding">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <div class="rts-section text-center">
-                        <h2 class="rts-section__title" data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">Black Friday Hosting Deals FAQs</h2>
-                        <p class="rts-section__description w-450" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">
-                            Find answers to frequently asked questions about our web
-                            hosting deals for Black Friday & Cyber Monday.
-                        </p>
-                    </div>
-                    <div class="rts-faq__accordion" data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">
-                        <div class="accordion accordion-flush" id="rts-accordion">
-                            <div class="accordion-item active">
-                                <h4 class="accordion-header" id="first">
-                                    <div class="accordion-button collapse show" data-bs-toggle="collapse" data-bs-target="#item__one" aria-expanded="false" aria-controls="item__one">
-                                        How Can I Purchase Black Friday Web Hosting Deals?
-                                    </div>
-                                </h4>
-                                <div id="item__one" class="accordion-collapse collapse collapse show" aria-labelledby="first" data-bs-parent="#rts-accordion">
-                                    <div class="accordion-body">
-                                        Above all else, we strive to deliver outstanding customer experiences. When you buy a domain name from hostie, we guarantee it will be handed over.
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h4 class="accordion-header" id="two">
-                                    <div class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__two" aria-expanded="false" aria-controls="item__two">
-                                        How does domain registration work?
-                                    </div>
-                                </h4>
-                                <div id="item__two" class="accordion-collapse collapse" aria-labelledby="two" data-bs-parent="#rts-accordion">
-                                    <div class="accordion-body">
-                                        Above all else, we strive to deliver outstanding customer experiences. When you buy a domain name from hostie, we guarantee it will be handed over.
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h4 class="accordion-header" id="three">
-                                    <div class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__three" aria-expanded="false" aria-controls="item__three">
-                                        Why is domain name registration required?
-                                    </div>
-                                </h4>
-                                <div id="item__three" class="accordion-collapse collapse" aria-labelledby="three" data-bs-parent="#rts-accordion">
-                                    <div class="accordion-body">
-                                        Above all else, we strive to deliver outstanding customer experiences. When you buy a domain name from hostie, we guarantee it will be handed over.
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="accordion-item">
-                                <h4 class="accordion-header" id="four">
-                                    <div class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__four" aria-expanded="false" aria-controls="item__four">
-                                        Why is domain name registration required?
-                                    </div>
-                                </h4>
-                                <div id="item__four" class="accordion-collapse collapse" aria-labelledby="four" data-bs-parent="#rts-accordion">
-                                    <div class="accordion-body">
-                                        Above all else, we strive to deliver outstanding customer experiences. When you buy a domain name from hostie, we guarantee it will be handed over.
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h4 class="accordion-header" id="five">
-                                    <div class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__five" aria-expanded="false" aria-controls="item__four">
-                                        Why is domain name registration required?
-                                    </div>
-                                </h4>
-                                <div id="item__five" class="accordion-collapse collapse" aria-labelledby="five" data-bs-parent="#rts-accordion">
-                                    <div class="accordion-body">
-                                        Above all else, we strive to deliver outstanding customer experiences. When you buy a domain name from hostie, we guarantee it will be handed over.
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
-    <!-- SHARED HOSTING FAQ END -->
-
-
     <!-- HOSTIE CTA -->
     <div class="rts-cta-two shared-page-bg">
         <div class="container">
@@ -1035,7 +868,7 @@
     <!-- HOSTIE CTA END -->
 
     <!-- FOOTER AREA START-->
-        <?php include 'layout/footer/footer-two.php';?>
+        <?php include 'layout/footer/footer-six.php';?>
     <!-- FOOTER AREA END -->
 
     <div id="anywhere-home" class=""></div>
