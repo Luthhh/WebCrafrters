@@ -444,7 +444,7 @@
             </div>
         </div>
     </div>
-</section>
+    </section>
 
     <!-- HOSTING PLAN END -->
 

@@ -35,172 +35,9 @@
     </div>
     <!-- shared hosting banner end-->
 
-
-    <!-- ABOUT RESELLER HOSTING -->
-    <div class="rts-about-reseller section__padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 padding-bottom-75">
-                    <div class="hosting-about-image-bg"></div>
-                    <div class="hosting-about-image">
-                        <div class="img-one">
-                            <img src="assets/images/about/resell/image-1.png" width="378" height="400" alt="">
-                        </div>
-                        <div class="img-two">
-                            <img src="assets/images/about/resell/image-2.png" width="247" height="347" alt="">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="hosting-info">
-                        <h3 class="hosting-info__title" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">About Reseller Hosting</h3>
-                        <p class="description" data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">Our Reseller Plans let you start your own Hosting Business by selling our white-labeled products.</p>
-                        <div class="single-about-info">
-                            <div class="single" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">
-                                <div class="icon">
-                                    <img src="assets/images/about/resell/support.svg" alt="">
-                                </div>
-                                <div class="content">
-                                    <h6>24/7 Guru Support</h6>
-                                    <p class="mb-0">
-                                        Our custom control panel to use
-                                        and removes the headache
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="single" data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">
-                                <div class="icon">
-                                    <img src="assets/images/about/resell/speed-meter.svg" alt="">
-                                </div>
-                                <div class="content">
-                                    <h6>Up To 20X Faster Turbo</h6>
-                                    <p class="mb-0">
-                                        Our custom control panel to use
-                                        and removes the headache
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <a href="pricing.php" class="btn__two btn__long secondary__bg secondary__color">View Plan <i class="fa-regular fa-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- ABOUT RESELLER HOSTING END -->
-
-    <!-- ABOUT RESELLER HOSTING -->
-    <div class="rts-about-reseller section__padding area-2">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="hosting-info w-550 mt-md-0">
-                        <h2 class="hosting-info__title" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">We invest in our
-                            employees’ happiness.</h2>
-                        <p class="description" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">Happy people are eager to grow and make the impossible possible That's why we invest in our employees' happiness.</p>
-                        <div class="feature" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">
-                            <ul class="feature__list gap-5">
-                                <li class="feature__item">Unlimited MySQL Databases</li>
-                                <li class="feature__item">Full Unix Shell</li>
-                                <li class="feature__item">Reseller & Sub Accounts</li>
-                                <li class="feature__item">IPv6 Support</li>
-                                <li class="feature__item">Hostie Control Panel</li>
-                                <li class="feature__item">Access to Raw Log Files</li>
-                                <li class="feature__item">Secure Shell (SSH) Access</li>
-                                <li class="feature__item">Unlimited SFTP Users</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 padding-bottom-75">
-                    <div class="hosting-about-image-bg"></div>
-                    <div class="hosting-about-image">
-                        <div class="img-one">
-                            <img src="assets/images/about/resell/image-3.png" width="378" height="400" alt="">
-                        </div>
-                        <div class="img-two">
-                            <img src="assets/images/about/resell/image-4.png" width="247" height="347" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- ABOUT RESELLER HOSTING END -->
-
-    <!-- DATA CENTER AREA -->
-    <div class="rts-data-center no-bg fix section__padding">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="rts-section w-790 text-center">
-                    <h3 class="rts-section__title" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">Data Centers All Around the World</h3>
-                    <p class="rts-section__description" data-sal="slide-down" data-sal-delay="400" data-sal-duration="800">Our web hosting, WordPress hosting, and cloud hosting plans offer server locations in: USA, Germany Egypt , India, Chaina, Brazil, Canada, Russia, Australia and South Africa.
-                    </p>
-                </div>
-            </div>
-            <!-- data center content -->
-            <div class="row">
-                <div class="col-12">
-                    <div class="rts-data-center__location">
-                        <img src="assets/images/data__center.png" alt="data__center">
-                        <ul class="round-shape">
-                            <li class="one">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-hostie" title="Canada"></span>
-                                <img src="assets/images/flag-01.svg" alt="">
-                            </li>
-                            <li class="two">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-hostie" title="Germany"></span>
-                                <img src="assets/images/flag-02.svg" alt="">
-                            </li>
-                            <li class="three">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-hostie" title="Russia"></span>
-                                <img src="assets/images/flag-03.svg" alt="">
-                            </li>
-                            <li class="four">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-hostie"  title="USA"></span>
-                                <img src="assets/images/flag-04.svg" alt="">
-                            </li>
-                            <li class="five">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-hostie" title="Egypt"></span>
-                                <img src="assets/images/flag-05.svg" alt="">
-                            </li>
-                            <li class="six">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top"  data-bs-custom-class="color-hostie" title="India"></span>
-                                <img src="assets/images/flag-06.svg" alt="">
-                            </li>
-                            <li class="seven">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-hostie" title="China"></span>
-                                <img src="assets/images/flag-07.svg" alt="">
-                            </li>
-                            <li class="eight">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-hostie" title="Brazil"></span>
-                                <img src="assets/images/flag-08.svg" alt="">
-                            </li>
-                            <li class="nine">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-hostie"  title="South Africa"></span>
-                                <img src="assets/images/flag-09.svg" alt="">
-                            </li>
-                            <li class="ten">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-hostie" title="Australia"></span>
-                                <img src="assets/images/flag-10.svg" alt="">
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="rts-shape">
-            <div class="rts-shape__one"></div>
-            <div class="rts-shape__two"></div>
-            <div class="rts-shape__three"></div>
-            <div class="rts-shape__four"></div>
-        </div>
-    </div>
-    <!-- DATA CENTER AREA END -->
-
     <!-- COUNTER UP AREA -->
     <div class="rts-counter-up-area">
-        <div class="container">
+        <div class="container mt--100">
             <ul class="counter-up-area-inner">
                 <li class="counter-up-list">
                     <div class="icon"><img src="assets/images/about/counter-01.svg" alt=""></div>
@@ -259,8 +96,8 @@
                                 <img src="assets/images/team/team-01.jpg" alt="">
                             </div>
                             <div class="content">
-                                <h4 class="title">Jhone Doe</h4>
-                                <p class="desc">CEO</p>
+                                <h4 class="title">Muhammad Galuh Gumelar</h4>
+                                <p class="desc">CTO</p>
                             </div>
                         </div>
                     </div>
@@ -270,8 +107,8 @@
                                 <img src="assets/images/team/team-02.jpg" alt="">
                             </div>
                             <div class="content">
-                                <h4 class="title">Peterson Jefer</h4>
-                                <p class="desc">Marketing</p>
+                                <h4 class="title">Luthfi Dika Chandra</h4>
+                                <p class="desc">CEO</p>
                             </div>
                         </div>
                     </div>
@@ -281,41 +118,8 @@
                                 <img src="assets/images/team/team-03.jpg" alt="">
                             </div>
                             <div class="content">
-                                <h4 class="title">Machiel Anderson</h4>
-                                <p class="desc">Digital Markter</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6">
-                        <div class="team-wrapper">
-                            <div class="image-area">
-                                <img src="assets/images/team/team-04.jpg" alt="">
-                            </div>
-                            <div class="content">
-                                <h4 class="title">Nikolay Todorov</h4>
-                                <p class="desc">Creative Design</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6">
-                        <div class="team-wrapper">
-                            <div class="image-area">
-                                <img src="assets/images/team/team-05.jpg" alt="">
-                            </div>
-                            <div class="content">
-                                <h4 class="title">Masum Sakib</h4>
-                                <p class="desc">WordPress Dev</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6">
-                        <div class="team-wrapper">
-                            <div class="image-area">
-                                <img src="assets/images/team/team-06.jpg" alt="">
-                            </div>
-                            <div class="content">
-                                <h4 class="title">Al Amin Bali</h4>
-                                <p class="desc">Designer</p>
+                                <h4 class="title">Dini Nurul Azizah</h4>
+                                <p class="desc">CMO</p>
                             </div>
                         </div>
                     </div>
@@ -442,29 +246,9 @@
     </div>
     <!-- HOSTIE CLIENT FEEDBACK AREA END -->
 
-    <!-- HOSTIE CTA -->
-    <div class="rts-cta-two shared-page-bg pt--120">
-        <div class="container">
-            <div class="row">
-                <div class="rts-cta-two__wrapper">
-                    <div class="cta__shape"></div>
-                    <div class="cta-content">
-                        <span data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">Need help choosing a plan?</span>
-                        <h4 data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">Need help?
-                            We're always here for you.</h4>
-                    </div>
-                    <div class="cta-btn">
-                        <a href="#" class="contact__us primary__btn btn__two secondary__bg secondary__color">Go to Live chat Page</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- HOSTIE CTA END -->
-
 
     <!-- FOOTER AREA START-->
-        <?php include 'layout/footer/footer-two.php';?>
+        <?php include 'layout/footer/footer-six.php';?>
     <!-- FOOTER AREA END -->
 
     <div id="anywhere-home" class=""></div>
