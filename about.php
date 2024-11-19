@@ -15,15 +15,15 @@
             <div class="row">
                 <div class="banner-area">
                     <div class="rts-hosting-banner rts-hosting-banner__content about__banner">
-                        <span class="starting__price" data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">About Hostie</span>
+                        <span class="starting__price" data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">About Webcrafters</span>
                         <h1 class="banner-title" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">
-                            A Unique Team Behind Your Online Success
+                        Empower Your Business with a Professional Website
                         </h1>
-                        <p class="slogan" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">What makes Site Ground unique is our extraordinary
-                            team of individuals who put their passion.</p>
+                        <p class="slogan" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800"> We specialize in creating business websites designed to enhance your online presence, attract more customers, and drive growth. Let us build a website that works for you.
+                        </p>
                         <div class="hosting-action" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">
-                            <a href="pricing-three.php" class="btn__two secondary__bg secondary__color">View Plan <i class="fa-regular fa-arrow-right"></i></a>
-                            <a href="pricing.php" class="btn__white">Starting @ $10.00/mo</a>
+                            <a href="pricing-three.php" class="btn__two secondary__bg secondary__color">Explore Plans <i class="fa-regular fa-arrow-right"></i></a>
+                            <a href="pricing.php" class="btn__white">Starting @ $10.00/month</a>
                         </div>
                     </div>
                     <div class="rts-hosting-banner__image about">
@@ -37,47 +37,48 @@
 
     <!-- COUNTER UP AREA -->
     <div class="rts-counter-up-area">
-        <div class="container mt--100">
-            <ul class="counter-up-area-inner">
-                <li class="counter-up-list">
-                    <div class="icon"><img src="assets/images/about/counter-01.svg" alt=""></div>
-                    <div class="counter-wrapper">
-                        <h2 class="title-main"><span class="counter animated fadeInDownBig">200</span><span class="suffix">+</span></h2>
-                        <p class="desc">
-                            People choose A2
-                        </p>
-                    </div>
-                </li>
-                <li class="counter-up-list">
-                    <div class="icon"><img src="assets/images/about/counter-02.svg" alt=""></div>
-                    <div class="counter-wrapper">
-                        <h2 class="title-main"><span class="counter animated fadeInDownBig">125</span><span class="suffix">k</span></h2>
-                        <p class="desc">
-                            Active Services helping
-                        </p>
-                    </div>
-                </li>
-                <li class="counter-up-list">
-                    <div class="icon"><img src="assets/images/about/counter-03.svg" alt=""></div>
-                    <div class="counter-wrapper">
-                        <h2 class="title-main"><span class="counter animated fadeInDownBig">110</span><span class="suffix">k</span></h2>
-                        <p class="desc">
-                            People utilizing a2
-                        </p>
-                    </div>
-                </li>
-                <li class="counter-up-list">
-                    <div class="icon"><img src="assets/images/about/counter-04.svg" alt=""></div>
-                    <div class="counter-wrapper">
-                        <h2 class="title-main"><span class="counter animated fadeInDownBig">17</span><span class="suffix">m+</span></h2>
-                        <p class="desc">
-                            Domains management
-                        </p>
-                    </div>
-                </li>
-            </ul>
-        </div>
+    <div class="container mt--100">
+        <ul class="counter-up-area-inner">
+            <li class="counter-up-list">
+                <div class="icon"><img src="assets/images/about/counter-01.svg" alt="Projects Icon"></div>
+                <div class="counter-wrapper">
+                    <h2 class="title-main"><span class="counter animated fadeInDownBig">300</span><span class="suffix">+</span></h2>
+                    <p class="desc">
+                        Successful Projects Delivered
+                    </p>
+                </div>
+            </li>
+            <li class="counter-up-list">
+                <div class="icon"><img src="assets/images/about/counter-02.svg" alt="Clients Icon"></div>
+                <div class="counter-wrapper">
+                    <h2 class="title-main"><span class="counter animated fadeInDownBig">150</span><span class="suffix">+</span></h2>
+                    <p class="desc">
+                        Satisfied Business Clients
+                    </p>
+                </div>
+            </li>
+            <li class="counter-up-list">
+                <div class="icon"><img src="assets/images/about/counter-03.svg" alt="Support Icon"></div>
+                <div class="counter-wrapper">
+                    <h2 class="title-main"><span class="counter animated fadeInDownBig">24/7</span></h2>
+                    <p class="desc">
+                        Dedicated Customer Support
+                    </p>
+                </div>
+            </li>
+            <li class="counter-up-list">
+                <div class="icon"><img src="assets/images/about/counter-04.svg" alt="Growth Icon"></div>
+                <div class="counter-wrapper">
+                    <h2 class="title-main"><span class="counter animated fadeInDownBig">2</span><span class="suffix">y+</span></h2>
+                    <p class="desc">
+                        Experience in Web Development
+                    </p>
+                </div>
+            </li>
+        </ul>
     </div>
+</div>
+
     <!-- COUNTER UP AREA END -->
 
     <!-- TEAM AREA -->
@@ -85,7 +86,7 @@
         <div class="container">
             <div class="rts-section-title-area">
                 <h2 class="section-title" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">Part of our team</h2>
-                <p class="desc w-450" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">Over the last 19 years, Site Ground has grown to more than
+                <p class="desc w-450" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">Over the last 2 years, Site Ground has grown to more than
                     A considerable number of our people started working</p>
             </div>
             <div class="section-inner">
@@ -93,7 +94,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-6">
                         <div class="team-wrapper">
                             <div class="image-area">
-                                <img src="assets/images/team/team-01.jpg" alt="">
+                                <img src="assets/images/team/cto.jpg" alt="">
                             </div>
                             <div class="content">
                                 <h4 class="title">Muhammad Galuh Gumelar</h4>
@@ -104,7 +105,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-6">
                         <div class="team-wrapper">
                             <div class="image-area">
-                                <img src="assets/images/team/team-02.jpg" alt="">
+                                <img src="assets/images/team/ceo.jpg" alt="">
                             </div>
                             <div class="content">
                                 <h4 class="title">Luthfi Dika Chandra</h4>
@@ -115,7 +116,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-6">
                         <div class="team-wrapper">
                             <div class="image-area">
-                                <img src="assets/images/team/team-03.jpg" alt="">
+                                <img src="assets/images/team/cmo.jpg" alt="">
                             </div>
                             <div class="content">
                                 <h4 class="title">Dini Nurul Azizah</h4>

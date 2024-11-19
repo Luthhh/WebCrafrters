@@ -7,7 +7,7 @@
 <body class="page-template template-resell">
 
     <!-- HEADER AREA START-->
-        <?php include 'layout/header/header-one.php';?>
+        <?php include 'layout/header/header-seven.php';?>
     <!-- HEADER AREA END -->
 
     <!-- shared hosting banner -->
