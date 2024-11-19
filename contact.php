@@ -180,7 +180,7 @@
     <!-- CONTACT MAP END -->
    
     <!-- FOOTER AREA START-->
-        <?php include 'layout/footer/footer-two.php';?>
+        <?php include 'layout/footer/footer-six.php';?>
     <!-- FOOTER AREA END -->
 
     <div id="anywhere-home" class=""></div>
