@@ -7,11 +7,12 @@
                     <a href="#" class="footer__logo">
                         <img src="assets/images/logo/footer__two__logo.svg" alt="">
                     </a>
-                    <p class="brand-desc address">1811 Silverside Rd, Wilmington <br> DE 19810, USA</p>
+                    <p class="brand-desc address">Jl. Kumbang No.14, RT.02/RW.06, Babakan, Kecamatan Bogor Tengah, Kota Bogor,
+                    Jawa Barat 16128
                     <div class="separator site-default-border"></div>
 
                     <div class="contact-method">
-                        <a href="tell:121"><span><i class="fa-regular fa-phone"></i></span>+806 (000) 88 99</a>
+                        <a href="tell:081212689257"><span><i class="fa-regular fa-phone"></i></span>+62 812-1268-9257</a>
                         <a href="mailto:contact@reactheme.com"><span><i class="fa-light fa-envelope"></i></span>info@hostie.com</a>
                     </div>
                 </div>
@@ -78,11 +79,11 @@
                     <div class="social__media">
                         <h5>social media</h5>
                         <div class="social__media--list">
-                            <a href="#" class="media"><i class="fa-brands fa-facebook-f"></i></a>
-                            <a href="#" class="media"><i class="fa-brands fa-instagram"></i></a>
-                            <a href="#" class="media"><i class="fa-brands fa-linkedin"></i></a>
+                            <a href="https://www.tiktok.com/@web.crafters_?_t=8rYJ1qKYTwN&_r=1" class="media" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-tiktok"></i></a>
+                            <a href="https://www.instagram.com/web.crafters_/profilecard/?igsh=ZXZtbGt3YTF3dGdz" class="media" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-instagram"></i></a>
+                            <!-- <a href="#" class="media"><i class="fa-brands fa-linkedin"></i></a>
                             <a href="#" class="media"><i class="fa-brands fa-x-twitter"></i></a>
-                            <a href="#" class="media"><i class="fa-brands fa-behance"></i></a>
+                            <a href="#" class="media"><i class="fa-brands fa-behance"></i></a> -->
                         </div>
                     </div>
                 </div>
