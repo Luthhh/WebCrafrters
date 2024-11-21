@@ -300,7 +300,7 @@
                     </nav>
                     <div class="rts-header__right">
                             <!-- <a href="mailto:info@hostie.com" class="login__btn" ><img src="assets/images/icon/email.svg" alt="" class="icon"></a> -->
-                        <a href="https://hostie-whmcs.themewant.com/" class="login__btn" target="_blank">Order</a>
+                        <a href="https://wa.me/6281212689257" class="login__btn" target="_blank">Order</a>
                         <button id="menu-btn" class="mobile__active menu-btn"><i class="fa-sharp fa-solid fa-bars"></i></button>
                     </div>
                 </div>

@@ -7,8 +7,9 @@
 <body class="page-template template-resell">
 
     <!-- HEADER AREA START-->
+
     <?php include 'layout/header/header-one.php'; ?>
-    <!-- HEADER AREA END -->
+
 
     <!-- shared hosting banner -->
     <div class="rts-hosting-banner rts-hosting-banner-bg banner-default-height">
@@ -213,7 +214,9 @@
     <!-- CONTACT MAP END -->
 
     <!-- FOOTER AREA START-->
+
     <?php include 'layout/footer/footer-six.php'; ?>
+
     <!-- FOOTER AREA END -->
 
     <div id="anywhere-home" class=""></div>

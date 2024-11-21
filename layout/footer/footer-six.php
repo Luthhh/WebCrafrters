@@ -5,7 +5,7 @@
             <div class="col-lg-3 col-md-6 rts-footer__widget--column">
                 <div class="rts-footer__widget footer__widget w-230">
                     <a href="#" class="footer__logo">
-                        <img src="assets/images/logo/footer__two__logo.svg" alt="">
+                        <img src="assets/images/logo/logo.png" alt="" style="width: 150px;">
                     </a>
                     <p class="brand-desc address">Jl. Kumbang No.14, RT.02/RW.06, Babakan, Kecamatan Bogor Tengah, Kota Bogor,
                     Jawa Barat 16128

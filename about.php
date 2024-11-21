@@ -15,15 +15,15 @@
             <div class="row">
                 <div class="banner-area">
                     <div class="rts-hosting-banner rts-hosting-banner__content about__banner">
-                        <span class="starting__price" data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">About Hostie</span>
+                        <span class="starting__price" data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">About Webcrafters</span>
                         <h1 class="banner-title" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">
-                            A Unique Team Behind Your Online Success
+                        Empower Your Business with a Professional Website
                         </h1>
-                        <p class="slogan" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">What makes Site Ground unique is our extraordinary
-                            team of individuals who put their passion.</p>
+                        <p class="slogan" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800"> We specialize in creating business websites designed to enhance your online presence, attract more customers, and drive growth. Let us build a website that works for you.
+                        </p>
                         <div class="hosting-action" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">
-                            <a href="pricing-three.php" class="btn__two secondary__bg secondary__color">View Plan <i class="fa-regular fa-arrow-right"></i></a>
-                            <a href="pricing.php" class="btn__white">Starting @ $10.00/mo</a>
+                            <a href="pricing-three.php" class="btn__two secondary__bg secondary__color">Explore Plans <i class="fa-regular fa-arrow-right"></i></a>
+                            <a href="pricing.php" class="btn__white">Starting @ $10.00/month</a>
                         </div>
                     </div>
                     <div class="rts-hosting-banner__image about">
@@ -35,212 +35,50 @@
     </div>
     <!-- shared hosting banner end-->
 
-
-    <!-- ABOUT RESELLER HOSTING -->
-    <div class="rts-about-reseller section__padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 padding-bottom-75">
-                    <div class="hosting-about-image-bg"></div>
-                    <div class="hosting-about-image">
-                        <div class="img-one">
-                            <img src="assets/images/about/resell/image-1.png" width="378" height="400" alt="">
-                        </div>
-                        <div class="img-two">
-                            <img src="assets/images/about/resell/image-2.png" width="247" height="347" alt="">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="hosting-info">
-                        <h3 class="hosting-info__title" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">About Reseller Hosting</h3>
-                        <p class="description" data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">Our Reseller Plans let you start your own Hosting Business by selling our white-labeled products.</p>
-                        <div class="single-about-info">
-                            <div class="single" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">
-                                <div class="icon">
-                                    <img src="assets/images/about/resell/support.svg" alt="">
-                                </div>
-                                <div class="content">
-                                    <h6>24/7 Guru Support</h6>
-                                    <p class="mb-0">
-                                        Our custom control panel to use
-                                        and removes the headache
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="single" data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">
-                                <div class="icon">
-                                    <img src="assets/images/about/resell/speed-meter.svg" alt="">
-                                </div>
-                                <div class="content">
-                                    <h6>Up To 20X Faster Turbo</h6>
-                                    <p class="mb-0">
-                                        Our custom control panel to use
-                                        and removes the headache
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <a href="pricing.php" class="btn__two btn__long secondary__bg secondary__color">View Plan <i class="fa-regular fa-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- ABOUT RESELLER HOSTING END -->
-
-    <!-- ABOUT RESELLER HOSTING -->
-    <div class="rts-about-reseller section__padding area-2">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="hosting-info w-550 mt-md-0">
-                        <h2 class="hosting-info__title" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">We invest in our
-                            employees’ happiness.</h2>
-                        <p class="description" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">Happy people are eager to grow and make the impossible possible That's why we invest in our employees' happiness.</p>
-                        <div class="feature" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">
-                            <ul class="feature__list gap-5">
-                                <li class="feature__item">Unlimited MySQL Databases</li>
-                                <li class="feature__item">Full Unix Shell</li>
-                                <li class="feature__item">Reseller & Sub Accounts</li>
-                                <li class="feature__item">IPv6 Support</li>
-                                <li class="feature__item">Hostie Control Panel</li>
-                                <li class="feature__item">Access to Raw Log Files</li>
-                                <li class="feature__item">Secure Shell (SSH) Access</li>
-                                <li class="feature__item">Unlimited SFTP Users</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 padding-bottom-75">
-                    <div class="hosting-about-image-bg"></div>
-                    <div class="hosting-about-image">
-                        <div class="img-one">
-                            <img src="assets/images/about/resell/image-3.png" width="378" height="400" alt="">
-                        </div>
-                        <div class="img-two">
-                            <img src="assets/images/about/resell/image-4.png" width="247" height="347" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- ABOUT RESELLER HOSTING END -->
-
-    <!-- DATA CENTER AREA -->
-    <div class="rts-data-center no-bg fix section__padding">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="rts-section w-790 text-center">
-                    <h3 class="rts-section__title" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">Data Centers All Around the World</h3>
-                    <p class="rts-section__description" data-sal="slide-down" data-sal-delay="400" data-sal-duration="800">Our web hosting, WordPress hosting, and cloud hosting plans offer server locations in: USA, Germany Egypt , India, Chaina, Brazil, Canada, Russia, Australia and South Africa.
-                    </p>
-                </div>
-            </div>
-            <!-- data center content -->
-            <div class="row">
-                <div class="col-12">
-                    <div class="rts-data-center__location">
-                        <img src="assets/images/data__center.png" alt="data__center">
-                        <ul class="round-shape">
-                            <li class="one">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-hostie" title="Canada"></span>
-                                <img src="assets/images/flag-01.svg" alt="">
-                            </li>
-                            <li class="two">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-hostie" title="Germany"></span>
-                                <img src="assets/images/flag-02.svg" alt="">
-                            </li>
-                            <li class="three">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-hostie" title="Russia"></span>
-                                <img src="assets/images/flag-03.svg" alt="">
-                            </li>
-                            <li class="four">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-hostie"  title="USA"></span>
-                                <img src="assets/images/flag-04.svg" alt="">
-                            </li>
-                            <li class="five">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-hostie" title="Egypt"></span>
-                                <img src="assets/images/flag-05.svg" alt="">
-                            </li>
-                            <li class="six">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top"  data-bs-custom-class="color-hostie" title="India"></span>
-                                <img src="assets/images/flag-06.svg" alt="">
-                            </li>
-                            <li class="seven">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-hostie" title="China"></span>
-                                <img src="assets/images/flag-07.svg" alt="">
-                            </li>
-                            <li class="eight">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-hostie" title="Brazil"></span>
-                                <img src="assets/images/flag-08.svg" alt="">
-                            </li>
-                            <li class="nine">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-hostie"  title="South Africa"></span>
-                                <img src="assets/images/flag-09.svg" alt="">
-                            </li>
-                            <li class="ten">
-                                <span class="tolltip1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="color-hostie" title="Australia"></span>
-                                <img src="assets/images/flag-10.svg" alt="">
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="rts-shape">
-            <div class="rts-shape__one"></div>
-            <div class="rts-shape__two"></div>
-            <div class="rts-shape__three"></div>
-            <div class="rts-shape__four"></div>
-        </div>
-    </div>
-    <!-- DATA CENTER AREA END -->
-
     <!-- COUNTER UP AREA -->
     <div class="rts-counter-up-area">
-        <div class="container">
-            <ul class="counter-up-area-inner">
-                <li class="counter-up-list">
-                    <div class="icon"><img src="assets/images/about/counter-01.svg" alt=""></div>
-                    <div class="counter-wrapper">
-                        <h2 class="title-main"><span class="counter animated fadeInDownBig">200</span><span class="suffix">+</span></h2>
-                        <p class="desc">
-                            People choose A2
-                        </p>
-                    </div>
-                </li>
-                <li class="counter-up-list">
-                    <div class="icon"><img src="assets/images/about/counter-02.svg" alt=""></div>
-                    <div class="counter-wrapper">
-                        <h2 class="title-main"><span class="counter animated fadeInDownBig">125</span><span class="suffix">k</span></h2>
-                        <p class="desc">
-                            Active Services helping
-                        </p>
-                    </div>
-                </li>
-                <li class="counter-up-list">
-                    <div class="icon"><img src="assets/images/about/counter-03.svg" alt=""></div>
-                    <div class="counter-wrapper">
-                        <h2 class="title-main"><span class="counter animated fadeInDownBig">110</span><span class="suffix">k</span></h2>
-                        <p class="desc">
-                            People utilizing a2
-                        </p>
-                    </div>
-                </li>
-                <li class="counter-up-list">
-                    <div class="icon"><img src="assets/images/about/counter-04.svg" alt=""></div>
-                    <div class="counter-wrapper">
-                        <h2 class="title-main"><span class="counter animated fadeInDownBig">17</span><span class="suffix">m+</span></h2>
-                        <p class="desc">
-                            Domains management
-                        </p>
-                    </div>
-                </li>
-            </ul>
-        </div>
+    <div class="container mt--100">
+        <ul class="counter-up-area-inner">
+            <li class="counter-up-list">
+                <div class="icon"><img src="assets/images/about/counter-01.svg" alt="Projects Icon"></div>
+                <div class="counter-wrapper">
+                    <h2 class="title-main"><span class="counter animated fadeInDownBig">300</span><span class="suffix">+</span></h2>
+                    <p class="desc">
+                        Successful Projects Delivered
+                    </p>
+                </div>
+            </li>
+            <li class="counter-up-list">
+                <div class="icon"><img src="assets/images/about/counter-02.svg" alt="Clients Icon"></div>
+                <div class="counter-wrapper">
+                    <h2 class="title-main"><span class="counter animated fadeInDownBig">150</span><span class="suffix">+</span></h2>
+                    <p class="desc">
+                        Satisfied Business Clients
+                    </p>
+                </div>
+            </li>
+            <li class="counter-up-list">
+                <div class="icon"><img src="assets/images/about/counter-03.svg" alt="Support Icon"></div>
+                <div class="counter-wrapper">
+                    <h2 class="title-main"><span class="counter animated fadeInDownBig">24/7</span></h2>
+                    <p class="desc">
+                        Dedicated Customer Support
+                    </p>
+                </div>
+            </li>
+            <li class="counter-up-list">
+                <div class="icon"><img src="assets/images/about/counter-04.svg" alt="Growth Icon"></div>
+                <div class="counter-wrapper">
+                    <h2 class="title-main"><span class="counter animated fadeInDownBig">2</span><span class="suffix">y+</span></h2>
+                    <p class="desc">
+                        Experience in Web Development
+                    </p>
+                </div>
+            </li>
+        </ul>
     </div>
+</div>
+
     <!-- COUNTER UP AREA END -->
 
     <!-- TEAM AREA -->
@@ -248,7 +86,7 @@
         <div class="container">
             <div class="rts-section-title-area">
                 <h2 class="section-title" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">Part of our team</h2>
-                <p class="desc w-450" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">Over the last 19 years, Site Ground has grown to more than
+                <p class="desc w-450" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">Over the last 2 years, Site Ground has grown to more than
                     A considerable number of our people started working</p>
             </div>
             <div class="section-inner">
@@ -256,10 +94,21 @@
                     <div class="col-lg-4 col-md-4 col-sm-6">
                         <div class="team-wrapper">
                             <div class="image-area">
-                                <img src="assets/images/team/team-01.jpg" alt="">
+                                <img src="assets/images/team/cto.jpg" alt="">
                             </div>
                             <div class="content">
-                                <h4 class="title">Jhone Doe</h4>
+                                <h4 class="title">Muhammad Galuh Gumelar</h4>
+                                <p class="desc">CTO</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6">
+                        <div class="team-wrapper">
+                            <div class="image-area">
+                                <img src="assets/images/team/ceo.jpg" alt="">
+                            </div>
+                            <div class="content">
+                                <h4 class="title">Luthfi Dika Chandra</h4>
                                 <p class="desc">CEO</p>
                             </div>
                         </div>
@@ -267,55 +116,11 @@
                     <div class="col-lg-4 col-md-4 col-sm-6">
                         <div class="team-wrapper">
                             <div class="image-area">
-                                <img src="assets/images/team/team-02.jpg" alt="">
+                                <img src="assets/images/team/cmo.jpg" alt="">
                             </div>
                             <div class="content">
-                                <h4 class="title">Peterson Jefer</h4>
-                                <p class="desc">Marketing</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6">
-                        <div class="team-wrapper">
-                            <div class="image-area">
-                                <img src="assets/images/team/team-03.jpg" alt="">
-                            </div>
-                            <div class="content">
-                                <h4 class="title">Machiel Anderson</h4>
-                                <p class="desc">Digital Markter</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6">
-                        <div class="team-wrapper">
-                            <div class="image-area">
-                                <img src="assets/images/team/team-04.jpg" alt="">
-                            </div>
-                            <div class="content">
-                                <h4 class="title">Nikolay Todorov</h4>
-                                <p class="desc">Creative Design</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6">
-                        <div class="team-wrapper">
-                            <div class="image-area">
-                                <img src="assets/images/team/team-05.jpg" alt="">
-                            </div>
-                            <div class="content">
-                                <h4 class="title">Masum Sakib</h4>
-                                <p class="desc">WordPress Dev</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6">
-                        <div class="team-wrapper">
-                            <div class="image-area">
-                                <img src="assets/images/team/team-06.jpg" alt="">
-                            </div>
-                            <div class="content">
-                                <h4 class="title">Al Amin Bali</h4>
-                                <p class="desc">Designer</p>
+                                <h4 class="title">Dini Nurul Azizah</h4>
+                                <p class="desc">CMO</p>
                             </div>
                         </div>
                     </div>
@@ -442,29 +247,9 @@
     </div>
     <!-- HOSTIE CLIENT FEEDBACK AREA END -->
 
-    <!-- HOSTIE CTA -->
-    <div class="rts-cta-two shared-page-bg pt--120">
-        <div class="container">
-            <div class="row">
-                <div class="rts-cta-two__wrapper">
-                    <div class="cta__shape"></div>
-                    <div class="cta-content">
-                        <span data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">Need help choosing a plan?</span>
-                        <h4 data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">Need help?
-                            We're always here for you.</h4>
-                    </div>
-                    <div class="cta-btn">
-                        <a href="#" class="contact__us primary__btn btn__two secondary__bg secondary__color">Go to Live chat Page</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- HOSTIE CTA END -->
-
 
     <!-- FOOTER AREA START-->
-        <?php include 'layout/footer/footer-two.php';?>
+        <?php include 'layout/footer/footer-six.php';?>
     <!-- FOOTER AREA END -->
 
     <div id="anywhere-home" class=""></div>
